@@ -22,4 +22,5 @@ for test_case in range(T):
                 last = mid - 1
 
         total += first
+        
     print(total)
